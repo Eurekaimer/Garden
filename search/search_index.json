@@ -1,1 +1,1 @@
-{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Welcome to MkDocs","text":"<p>Welcome to mywiki</p>"}]}
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Welcome to MkDocs","text":"<p>Welcome to mywiki</p>"},{"location":"demo/page-1/","title":"Page 1","text":"<p>...</p>","tags":["HTML","JavaScript"]},{"location":"demo/page-2/","title":"Page 2","text":"<p>...</p>","tags":["JavaScript","CSS"]},{"location":"demo/tags/","title":"Tags","text":""}]}
